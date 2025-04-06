@@ -1,0 +1,19 @@
+{
+  "name": "solana-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.0",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.8.1",
+    "@solana/web3.js": "1",
+    "esrun": "^3.2.26",
+    "typescript": "^5.8.3"
+  }
+}
